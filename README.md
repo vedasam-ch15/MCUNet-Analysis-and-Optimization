@@ -1,5 +1,5 @@
 # MCUNet-Analysis-and-Optimization
-Embedded Systems project titled "MCUNet: Analysis and Optimization". MCUNet is a framework that designs efficient neural architecture (TinyNAS) and the lightweight inference engine (TinyEngine), enabling ImageNet-scale inference on microcon- trollers.
+Embedded Systems project titled "MCUNet: Analysis and Optimization". MCUNet is a framework that designs efficient neural architecture (TinyNAS) and the lightweight inference engine (TinyEngine), enabling ImageNet-scale inference on microcontrollers.
 * Papers covered: [MCUNet](https://arxiv.org/abs/2007.10319) and [MCUNetV2](https://arxiv.org/abs/2110.15352)
 * Reference github: [github](https://github.com/mit-han-lab/mcunet)
 * [**"mcunet-ino"**](https://github.com/mit-han-lab/mcunet/blob/master/mcunet/model_zoo.py) model implemented from inbuilt and also optimization has been tried by re-building the model from scratch
